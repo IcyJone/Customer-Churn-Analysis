@@ -31,7 +31,7 @@ Link: [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://w
    ```
 
 3. **Run the analysis**
-   Open `telco-customer-churn.ipynb` (or the main notebook file) in Jupyter Notebook or VS Code and run all cells.
+   Open `customer-churn.ipynb` (or the main notebook file) in Jupyter Notebook or VS Code and run all cells.
 
 ---
 
