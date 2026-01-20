@@ -42,9 +42,9 @@ Link: [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://w
 
 * **Key Insights**
 
-  * Month-to-month contracts significantly increase churn probability.
-  * Fiber Optic internet service customers show higher churn risk.
-  * Longer tenure strongly reduces churn likelihood.
+  - Month-to-month contracts → higher churn risk  
+  - Fiber Optic service → higher churn risk  
+  - Longer tenure → reduces churn likelihood 
 
 * **Business Outcome**
   Successfully segmented **~493 high-risk customers** for targeted retention campaigns.
