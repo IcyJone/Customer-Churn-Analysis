@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction & Retention Strategy
+# Customer Churn Prediction
 
 This project develops a machine learning pipeline to identify high-risk customers for a telecommunications provider. Instead of chasing raw accuracy alone, it prioritizes **model interpretability** and **actionable business insights** so retention teams can intervene before customers leave.
 
