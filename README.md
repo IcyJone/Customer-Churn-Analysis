@@ -41,10 +41,9 @@ Link: [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://w
   Achieved an ROC-AUC score of **~0.83** using Logistic Regression.
 
 * **Key Insights**
-
-  - * Month-to-month contracts significantly increase churn probability.
-    * * Fiber Optic internet service customers show higher churn risk.
-      * * Longer tenure strongly reduces churn likelihood.
+   - Month-to-month contracts significantly increase churn probability.
+   - Fiber Optic internet service customers show higher churn risk.
+   - Longer tenure strongly reduces churn likelihood.
 * **Business Outcome**
   Successfully segmented **~493 high-risk customers** for targeted retention campaigns.
 
